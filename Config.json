@@ -1,0 +1,25 @@
+{
+	"Monitors": [
+		{
+			"Name": "DELL P2319H",
+			"Inputs": {
+				"AJPC": 15,
+				"AJWORKLAPTOP": 17
+			}
+		},
+		{
+			"Name": "LG Ultrawide",
+			"Inputs": {
+				"AJPC": 4,
+				"AJWORKLAPTOP": 3
+			}
+		}
+	],
+
+	"Computers": {
+		"AJPC": "Personal Desktop",
+		"AJWORKLAPTOP": "Work Laptop"
+	},
+	"CMMPath": "\\\\ajpc\\kvm\\ControlMyMonitor\\ControlMyMonitor.exe",
+	"LogFilePath": "\\\\ajpc\\kvm\\kvmlog.txt"
+}

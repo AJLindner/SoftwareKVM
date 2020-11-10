@@ -1,0 +1,48 @@
+[11/09/2020 10:14:08] Switching to AJPC
+[11/09/2020 10:14:09] DELL P2319H switched to Input 15
+[11/09/2020 10:14:09] LG Ultrawide switched to Input 4
+
+------------------
+
+[11/09/2020 15:01:00] Switching to AJWORKLAPTOP
+[11/09/2020 15:01:00] DELL P2319H switched to Input 17
+[11/09/2020 15:01:00] LG Ultrawide switched to Input 3
+
+------------------
+
+[11/09/2020 16:14:30] Switching to AJPC
+[11/09/2020 16:14:30] DELL P2319H switched to Input 15
+[11/09/2020 16:14:30] LG Ultrawide switched to Input 4
+
+------------------
+
+[11/10/2020 10:14:38] Switching to AJWORKLAPTOP
+[11/10/2020 10:14:38] DELL P2319H switched to Input 17
+[11/10/2020 10:14:38] LG Ultrawide switched to Input 3
+
+------------------
+
+[11/10/2020 10:59:13] Switching to AJPC
+[11/10/2020 10:59:13] DELL P2319H switched to Input 15
+[11/10/2020 10:59:13] LG Ultrawide switched to Input 4
+
+------------------
+
+[11/10/2020 11:57:20] Switching to AJWORKLAPTOP
+[11/10/2020 11:57:20] DELL P2319H switched to Input 17
+[11/10/2020 11:57:20] LG Ultrawide switched to Input 3
+
+------------------
+
+[11/10/2020 13:27:03] Switching to AJPC
+[11/10/2020 13:27:03] DELL P2319H switched to Input 15
+[11/10/2020 13:27:03] LG Ultrawide switched to Input 4
+
+------------------
+
+[11/10/2020 13:27:19] Switching to AJWORKLAPTOP
+[11/10/2020 13:27:19] DELL P2319H switched to Input 17
+[11/10/2020 13:27:19] LG Ultrawide switched to Input 3
+
+------------------
+
